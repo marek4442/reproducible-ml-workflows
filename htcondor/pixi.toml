@@ -1,0 +1,10 @@
+[workspace]
+authors = ["marek4442 <marekestrada@gmail.com>"]
+channels = ["conda-forge"]
+name = "htcondor"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
